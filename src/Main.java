@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        int price = 19_700;
+        int price = 19_780;
         int bonus = price / 20;
     System.out.println("Количество начисленных миль за купленный билет: " + bonus);
 
